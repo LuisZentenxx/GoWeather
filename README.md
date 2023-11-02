@@ -1,6 +1,6 @@
 # GoWeather
 
-![image](https://ibb.co/gzc5Zwv)
+![Descripción de la imagen](https://i.ibb.co/qk2tY90/In-Shot-20231102-194147268.jpg)
 
 ## Descripción
 Este proyecto consiste en el desarrollo de una aplicación de línea de comandos en **Golang** utilizando el framework **Cobra**. Con esta aplicación, los usuarios podrán obtener fácilmente la temperatura actual de cualquier ciudad del mundo simplemente ingresando el nombre de la ciudad como argumento del comando.
